@@ -1,0 +1,60 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 20px;
+}
+
+.header-searchBinary {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+.sectionHeader-searchBinary h1 {
+    margin: 0;
+}
+
+.main-searchBinary {
+    margin-top: 20px;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-searchBinary {
+    display: flex;
+    flex-direction: column;
+}
+
+.form-searchBinary label {
+    margin: 10px 0 5px;
+}
+
+.form-searchBinary input {
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.form-searchBinary button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+.form-searchBinary button:hover {
+    background-color: #45a049;
+}
+
+#response-search {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #333;
+}
