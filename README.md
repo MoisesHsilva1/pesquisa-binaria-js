@@ -24,4 +24,7 @@ Este projeto implementa um sistema de pesquisa binária que permite ao usuário 
 - **Pesquisar Números**: O usuário pode pesquisar um número específico e obter seu índice no array utilizando o algoritmo de pesquisa binária.
 - **Interface Responsiva**: A aplicação possui uma interface simples e responsiva, adequada para diferentes tamanhos de tela.
 
+## Projeto em ação
+![image](https://github.com/user-attachments/assets/6520ed8d-dd44-40d3-89c8-a3f4dc5081f1)
+
 
